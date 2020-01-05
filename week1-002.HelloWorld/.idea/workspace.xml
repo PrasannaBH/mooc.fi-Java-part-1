@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2740ea1-6058-47d5-b8ca-371490eace14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VvyLcFjirNlWwSKYYjnQSX9V6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week1-003.Spruce" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2740ea1-6058-47d5-b8ca-371490eace14" name="Default Changelist" comment="" />
+      <created>1578147808689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578147808689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578148281404">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="423" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1578148281404" />
+    <state x="531" y="201" key="FileChooserDialogImpl" timestamp="1578231478122">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="531" y="201" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1578231478122" />
+    <state x="458" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1578231277120">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="458" y="271" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1578231277120" />
+  </component>
+</project>
